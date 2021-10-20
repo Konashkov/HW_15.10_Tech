@@ -48,7 +48,9 @@ span{
 .title{
     margin-top: 230px;
 }
+.z,
 .content{
+    overflow: hidden;
     text-align: center;
     width:100vw ;
     height: 500px;
@@ -56,9 +58,6 @@ span{
     top:70px;
     background-color:rgba(238, 130, 238, 0.637) ;
 }
-.z{
-    overflow: hidden;
-    height: calc(100vw/1,498997995991984);
-}
+
 
 
